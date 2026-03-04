@@ -1,4 +1,4 @@
-# 19-phdata-senior-solutions-architect
+# 19-data-governance-example
 
 A production-minded Database Reliability Engineering toolkit: HA lab, backup/PITR drills, and zero-downtime migration playbooks.
 
